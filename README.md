@@ -82,7 +82,7 @@ python plot_training.py
 ```
 
 ## **Results & Performance**
-- **Achieved over 90% accuracy** on validation datasets.
+- **Achieved over 94% accuracy** on validation datasets.
 - Robust detection of various deepfake techniques.
 - Handles real-world videos with varying resolutions & lighting conditions.
 - ![image](https://github.com/user-attachments/assets/4fdee243-8639-4b8f-a9e3-20c654b3f412)
